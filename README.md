@@ -7,6 +7,16 @@ Markdown Cheatsheet (from [https://www.markdownguide.org/cheat-sheet/](https://w
 ---
 ---
 
+#### Summary of the exercise
+draw the canvas with points which have rules to follow
+
+#### how to draw
+following the canvas we drew in the class
+treat (a big circle + a small circle) as a group
+the beside two rows is the same but start with different point
+
+#### the color
+
 # Heading1
 ## Heading2
 ### Heading3
